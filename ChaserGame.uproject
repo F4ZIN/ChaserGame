@@ -61,6 +61,10 @@
 		{
 			"Name": "SocketSubsystemEOS",
 			"Enabled": true
+		},
+		{
+			"Name": "BlueprintFileUtils",
+			"Enabled": true
 		}
 	]
 }
